@@ -1,4 +1,4 @@
-### Leo Caseiro, Brazilian, father of a boy.
+### Leo Caseiro, Brazilian, father of a boy (couple to be).
 
 Hi, I'm currently working as a Software Engineer at [Atlassian](https://www.atlassian.com/) based in Sydney, and I work in the **Jira Cloud Frontend Performance Team** and our goal is to improve Performance for **Jira Software Cloud**.
 
