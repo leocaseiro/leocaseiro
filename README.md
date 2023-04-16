@@ -16,5 +16,5 @@ If I'm not coding, or studying, or giving a [talk](https://leocaseiro.com/speaki
 </a>
 
 <a href="https://twitter.com/leocaseiro">
-  <img align="left"  src="https://img.shields.io/badge/-Leo_Caseiro-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/leocaseiro" />
+  <img align="left"  src="https://img.shields.io/badge/-leocaseiro-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/leocaseiro" />
 </a>
