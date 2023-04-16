@@ -1,4 +1,6 @@
-### Leo Caseiro, Brazilian, father of a boy, and a girl.
+### Leo Caseiro
+
+[![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leocaseiro&show_icons=true&theme=merko)](https://leocaseiro.com/)
 
 Hi, I'm currently working as a Software Engineer at [Atlassian](https://www.atlassian.com/) based in Sydney, and I work in the **Jira Frontend Issue View** and our goal is to improve issue view for **Jira Software Cloud**.
 
