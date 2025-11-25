@@ -1,7 +1,7 @@
 ### Leo Caseiro
 
-<img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=leocaseiro&show_icons=true&theme=merko" />
-<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leocaseiro&hide=php&layout=compact&langs_count=6&theme=merko" />
+<!-- <img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=leocaseiro&show_icons=true&theme=merko" />
+<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leocaseiro&hide=php&layout=compact&langs_count=6&theme=merko" /> -->
 
 Hi, I'm currently working as a Software Engineer at [Atlassian](https://www.atlassian.com/) based in Sydney, and I work in the **Jira AI** and our goal is to deliver AI features to **Jira Cloud**.
 
