@@ -3,7 +3,7 @@
 <!-- <img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=leocaseiro&show_icons=true&theme=merko" />
 <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leocaseiro&hide=php&layout=compact&langs_count=6&theme=merko" /> -->
 
-Hi, I'm currently working as a Frontend Engineer at [Reapit Sales]([https://www.atlassian.com/](https://www.reapit.com/) remotelly.
+Hi, I'm currently working as a Frontend Engineer at [Reapit Sales](https://www.reapit.com/) remotelly.
 
 Reapit stack is [React.JS](https://reactjs.org/), and [TypeScript](https://www.typescriptlang.org/).
 
